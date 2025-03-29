@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!-- 
+/**
+ * Copyright (c) 2009, The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *         http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+ -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+        <string name="dock_alignment_slow_charging" product="default" msgid="6997633396534416792">"ફોનને ઝડપથી ચાર્જ કરવા માટે ફરીથી ગોઠવો"</string>
+        <string name="dock_alignment_not_charging" product="default" msgid="3980752926226749808">"ફોનને વાયરલેસ રીતે ચાર્જ કરવા માટે ફરીથી ગોઠવો"</string>
+        <string name="inattentive_sleep_warning_message" product="default" msgid="5693904520452332224">"ડિવાઇસ ટૂંક સમયમાં બંધ થશે; તેને ચાલુ રાખવા માટે દબાવો."</string>
+        <string name="keyguard_missing_sim_message" product="default" msgid="7053347843877341391">"ફોનમાં સિમ કાર્ડ નથી."</string>
+        <string name="kg_invalid_confirm_pin_hint" product="default" msgid="6278551068943958651">"પિન કોડ મેળ ખાતા નથી"</string>
+        <string name="kg_failed_attempts_almost_at_wipe" product="default" msgid="2594813176164266847">"તમે ફોનને <xliff:g id="NUMBER_0">%1$d</xliff:g> વખત ખોટી રીતે અનલૉક કરવાનો પ્રયાસ કર્યો છે. વધુ <xliff:g id="NUMBER_1">%2$d</xliff:g> અસફળ પ્રયાસો પછી, આ ફોન રીસેટ કરવામાં આવશે, જે તેનો તમામ ડેટા ડિલીટ કરી દેશે."</string>
+        <string name="kg_failed_attempts_now_wiping" product="default" msgid="6381835450014881813">"તમે ફોનને <xliff:g id="NUMBER">%d</xliff:g> વખત ખોટી રીતે અનલૉક કરવાનો પ્રયાસ કર્યો છે. આ ફોન રીસેટ કરવામાં આવશે, જે તેનો તમામ ડેટા ડિલીટ કરી દેશે."</string>
+        <string name="kg_failed_attempts_almost_at_erase_user" product="default" msgid="8110939900089863103">"તમે ફોનને <xliff:g id="NUMBER_0">%1$d</xliff:g> વખત ખોટી રીતે અનલૉક કરવાનો પ્રયાસ કર્યો છે. વધુ <xliff:g id="NUMBER_1">%2$d</xliff:g> અસફળ પ્રયાસો પછી, આ વપરાશકર્તા કાઢી નાખવામાં આવશે, જે તમામ વપરાશકર્તા ડેટા ડિલીટ કરી દેશે."</string>
+        <string name="kg_failed_attempts_now_erasing_user" product="default" msgid="3051962486994265014">"તમે ફોનને <xliff:g id="NUMBER">%d</xliff:g> વખત ખોટી રીતે અનલૉક કરવાનો પ્રયાસ કર્યો છે. આ વપરાશકર્તાને કાઢી નાખવામાં આવશે, જે તમામ વપરાશકર્તા ડેટાને ડિલીટ કરી દેશે."</string>
+        <string name="kg_failed_attempts_almost_at_erase_profile" product="default" msgid="3280816298678433681">"તમે ફોનને <xliff:g id="NUMBER_0">%1$d</xliff:g> વખત ખોટી રીતે અનલૉક કરવાનો પ્રયાસ કર્યો છે. વધુ <xliff:g id="NUMBER_1">%2$d</xliff:g> અસફળ પ્રયાસ પછી, કાર્યાલયની પ્રોફાઇલ કાઢી નાખવામાં આવશે, જે તમામ પ્રોફાઇલ ડેટાને ડિલીટ કરી દેશે."</string>
+        <string name="kg_failed_attempts_now_erasing_profile" product="default" msgid="4682221342671290678">"તમે ફોનને <xliff:g id="NUMBER">%d</xliff:g> વખત ખોટી રીતે અનલૉક કરવાનો પ્રયાસ કર્યો છે. આ કાર્યાલયની પ્રોફાઇલ કાઢી નાખવામાં આવશે, જે તમામ પ્રોફાઇલ ડેટાને ડિલીટ કરી દેશે."</string>
+        <string name="kg_failed_attempts_almost_at_login" product="default" msgid="44112553371516141">"તમે તમારી અનલૉક પૅટર્ન <xliff:g id="NUMBER_0">%1$d</xliff:g> વખત ખોટી રીતે દોરી છે. વધુ <xliff:g id="NUMBER_1">%2$d</xliff:g> અસફળ પ્રયાસો પછી, તમને ઇમેઇલ એકાઉન્ટનો ઉપયોગ કરીને તમારા ફોનને અનલૉક કરવાનું કહેવામાં આવશે.\n\n<xliff:g id="NUMBER_2">%3$d</xliff:g> સેકન્ડમાં ફરીથી પ્રયાસ કરો."</string>
+        <string name="global_action_lock_message" product="default" msgid="7092460751050168771">"વધુ વિકલ્પો માટે તમારા ફોનને અનલૉક કરો"</string>
+        </resources>
